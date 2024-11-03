@@ -1,0 +1,2 @@
+# a-simple-python-code-that-can-make-a-physical-robot-move-simply-in-a-2dplane
+hello I have a project that I have to make for school. the project is to have a simple Python code that can move physical a robot UP, DOWN, LEFT, RIGHT. I have a very small amount of knowledge on python and coding in general and i need help making the code and putting it into a robot that moves. if you can help it would be GREATLY APPRECIATED.
